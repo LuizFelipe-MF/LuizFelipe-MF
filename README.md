@@ -1,6 +1,6 @@
 ### Hi There, im Luiz Felipe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🇧🇷I'm from Brazil 🇧🇷
+- I'm from Brazil
 - 📚I'm a student of Instituto Federal de Sergipe📚
 - I'm currently studying HTML, CSS, JavaScript, PHP, SQL and Java
 - I'm very interested in learning ReactJs, NodeJs and other things
