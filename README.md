@@ -1,12 +1,21 @@
-### Hi There, im Luiz Felipe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> 
+  Hello, i'm Luiz Felipe 😁
+</h1>
 
-- I'm from Brazil
-- I'm currently studying React, React-Native and UX Design
-- I'm very interested in learning Front-end and web design.
+* #### 👾 Front-end Dev
+* #### 📚 Currently studying Typescript and ui/ux design
+##
 
-Reach me out 👇
+<div>
+  <a href="https://github.com/LuizFelipe-MF/LuizFelipe-MF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-2c2f34?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/_felipe.luiz/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-santos-b4aab8204/)](https://www.linkedin.com/in/luiz-felipe-323087222/)
+<div style="display: inline-block">
+  <img align="center" alt="Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Luiz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+</div>
 
-
+![Snake animation](https://github.com/LuizFelipe-MF)
