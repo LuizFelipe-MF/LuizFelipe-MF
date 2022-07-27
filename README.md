@@ -3,7 +3,7 @@
 </h1>
 
 * #### 👾 Front-end Dev
-* #### 📚 Currently studying Typescript and UI/UX Design
+* #### 📚 Currently studying React with typescript and UI/UX Design
 ##
 
 <div>
