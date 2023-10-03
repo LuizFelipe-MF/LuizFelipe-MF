@@ -19,7 +19,8 @@
   <img align="center" alt="Luiz_Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
-![Snake animation](https://github.com/LuizFelipe-MF/LuizFelipe-MF/blob/output/github-contribution-grid-snake.svg)
+![LuizFelipe-MF GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=dracula)
+[![LuizFelipe-MF github streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizFelipe-MF&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
 ##
 
