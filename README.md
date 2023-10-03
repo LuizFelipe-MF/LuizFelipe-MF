@@ -6,10 +6,8 @@
 * #### 📚 Currently studying Flutter
 ##
 
-<div>
-  <a href="https://github.com/LuizFelipe-MF/LuizFelipe-MF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+![LuizFelipe-MF GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=dracula)
+[![LuizFelipe-MF github streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizFelipe-MF&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
 <div style="display: inline-block">
   <img align="center" alt="Luiz_React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -18,9 +16,6 @@
   <img align="center" alt="Luiz_CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Luiz_Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
-
-![LuizFelipe-MF GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=dracula)
-[![LuizFelipe-MF github streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizFelipe-MF&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
 ##
 
