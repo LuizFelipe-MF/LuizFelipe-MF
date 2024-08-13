@@ -2,8 +2,8 @@
   Hello, i'm Luiz Felipe 😁
 </h1>
 
-* #### 👾 Front-end Dev
-* #### 📚 Currently studying Flutter
+* #### 👾 Mobile and Front-end Dev
+* #### 📚 Flutter and React-Js
 ##
 
 ![LuizFelipe-MF GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=dracula)
