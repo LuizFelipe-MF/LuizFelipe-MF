@@ -7,7 +7,6 @@
 ##
 
 ![LuizFelipe-MF GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe-MF&show_icons=true&theme=dracula)
-[![LuizFelipe-MF github streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizFelipe-MF&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
 <div style="display: inline-block">
   <img align="center" alt="Luiz_React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
